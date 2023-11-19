@@ -1,0 +1,472 @@
+header{
+  width: 100%;
+  height: 760px;
+  background-color: #1C1E53;
+  position: relative;
+  z-index: 1;
+}
+.naving{
+  margin-left: 340px;
+}
+.hero-img{
+  width: 502px;
+height: 222px;
+margin-top: 218px;
+margin-left: 160px;
+
+}
+.contact{
+width: 105px;
+height: 30px;
+border-radius: 41px;
+border: 2px solid white;
+
+}
+.contact  a{
+  text-decoration: none;
+  color: white;
+}
+.illusion{
+  width: 578px;
+  height: 361.12px;
+  margin-left: 690px;
+  margin-top: -281px;
+
+}
+.butt{
+width: 160px;
+height: 34px;
+background-color: #FCD980;
+padding: 16px, 56px, 16px, 56px;
+border-radius: 41px;
+gap: 10px;
+margin-top: -51px;
+margin-left: 153px;
+
+}
+.butt{
+  position: absolute;
+  z-index: 3;
+}
+.but{
+  text-decoration: none;
+  color: black;
+font-size: 16px;
+font-weight: 600;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.view{
+    font-size: 16px;
+    position: absolute;
+    z-index: 5;
+    margin-top: -51px;
+    margin-left: 367px;
+}
+.bet{
+  text-decoration: none;
+  color: rgb(252, 248, 248);
+font-size: 14px;
+font-weight: 200;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+}
+.cards{
+width: 606px;
+height: 365px;
+border-radius: 8px;
+margin-top: 20px;
+
+}
+.how{
+   width: 365px;
+height: 44px;
+margin-left: 160px;
+margin-top: 100px;
+}
+.how-img{
+  width: 212px;
+}
+.lorem{
+  margin-left: 160px;
+}
+.lor{
+  width:300px ;
+}
+.get{
+  margin-left: 160px;
+}
+.get a{
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 18px;
+}
+#sec-1{
+  background-color: #F4F6FC;
+  width: 100%;
+  height: 661px;
+  top: 760px;
+
+
+  
+}
+.cards-img{
+  width: 656px;
+  height: 405px;
+  top: 888px;
+  left: 712px;
+  border-radius: 8px;
+  
+
+}
+#sec3{
+  background: #F4F6FC;
+  width: 1600px;
+height: 1091px;
+margin-top: 800px;
+margin-left: -200px;
+
+}
+
+.viewdiv{
+  width: 1000px;
+  height: 34px;
+  margin-top: 50px;
+  margin-left: 0px;
+
+}
+
+.fea{
+  width: 100;
+height: 1191px;
+margin-top: 30px;
+padding: 350px;
+}
+#fe{
+  text-align: center;
+  margin-top: -150px;
+
+}
+#des{
+  text-align: center;
+  font-weight: 600px;
+  font-size: 48px;
+  line-height: 64px;
+}
+.card{
+  display: flex;
+  flex-direction: column
+}
+.card-title{
+  width: 314.75px;
+height: 36px;
+top: 2920px;
+left: 208px;
+
+}
+.card-text{
+  width: auto;
+height: 112px;
+top: 2968px;
+left: 50.35px;
+opacity: 0.7px;
+
+}
+#ic{
+  width: 32px;
+height: 27.92px;
+top: 2870px;
+left: 208px;
+
+}
+
+#sec4{
+  width: 1600px;
+height: 506px;
+margin-top: 0px;
+opacity: 0.5px;
+background: #f4f6fc7b;
+margin-left: -200px;
+
+
+}
+#wht{
+  text-align: left;
+  width: 327px;
+height: 112px;
+margin-left: 250px;
+margin-top: 200px;
+
+}
+#lor{
+  text-align: left;
+  margin-left: 250px;
+  margin-top: -20px;
+
+}
+#cont{
+  text-align: left;
+  margin-top: 200px;
+}
+#pro{
+  margin-top: 30px;
+}
+#li{
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  margin-top: -40px;
+  margin-left: -550px;
+
+}
+#li1{
+
+  text-decoration: none;
+  color: black;
+  margin-top: -50px;
+  margin-left: 70px;
+  font-size: 12px;
+
+}
+.btns{
+  margin-left: 500px;
+  margin-top: -50px;
+  
+}
+#btn{
+  background: transparent;
+  border-radius: 20px;
+  border: 0;
+}
+#sec5{
+ width:2100px;
+height: 537px;
+top: 4230px;
+margin-left: -108px;
+
+
+}
+#freq{
+margin-left: 200px;
+margin-top: 150px;
+}
+#contact{
+  margin-left: 200px;
+  text-decoration: none;
+  font-size: bold;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-top: -20px;
+}
+#spa {
+  color: blue;
+  font-size: 20px;
+  text-align: left;
+  margin-left: -40px;
+
+
+  
+}
+#how{
+  margin-top: 150px;
+  margin-left: 50px;
+  
+}
+#lo{
+  margin-top: 20px;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 90px;
+}
+#how2{
+  margin-left: 50px;
+  
+}
+.fa-solid{
+  color: rgb(202, 202, 203);
+  font-size: 20px;
+}
+#a :hover{
+  color: blue;
+  
+}
+.card-body:hover img{
+    transform: scale(1.2);
+}
+.btns :hover img{
+  transform: scale(1.2);
+
+}
+.col-6 :hover #pro{
+  transform: scale(1.2);
+
+}
+
+#sec-6{
+  width: 1280px;
+height: 691px;
+margin-top: 285px;
+margin-left: 0px;
+
+}
+#sec-6 #im {
+  width: 656px;
+  height: 691px;
+  margin-left: 158px;
+  }
+
+
+#sec-6 #im1 {
+  width: 624px;
+  height: 691px;
+margin-left: 150px;  
+}
+#bui{
+  text-align: left;
+  margin-top: -550px;
+  margin-left: 350px;
+  font-size: 45px;
+  color: white;
+  line-height: 4rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#sec-6 p{
+  width: 656px;
+  height: 691px;
+  margin-left: 250px;
+  text-align: left;
+  color: white;
+}
+
+#sec-6 form{
+  margin-top: -500px;
+  margin-left: 200px;
+  color: white;
+}
+
+#sec-7{
+  width: 100%;
+height: 737px;
+top: 5714px;
+left: 158px;
+
+}
+#sec-7 h1{
+  margin-top: 30px;
+}
+.p1{
+  margin-left: 100px;
+}
+
+.p1 h6{
+  margin-top: 20px;
+  color: gray;
+}
+ #img1:hover{
+  transform: scale(1.1);
+}
+#img2:hover{
+  transform: scale(1.1);
+}
+#img3:hover{
+  transform: scale(1.1);
+}
+
+.foot{
+  width: 100%;
+  height: 350px;
+  background-color: #1C1E53;
+}
+.con1 img{
+  margin-top: 100px;
+  margin-left: 15%;
+}
+.con1 p{
+  margin-left: 15%;
+  color: gray;
+  margin-top: 20px;
+}
+.con2 h1{
+margin-left: 65%;
+margin-top: -120px;
+color: white;
+}
+.con2 p{
+  margin-left: 65%;
+color: gray;
+margin-top: 20px;
+}
+.con3{
+  margin-left: 65%;
+
+}
+.con3 i{
+  color: white;
+  padding: 10px;
+  
+}
+.con4{
+  margin-top: -34px;
+  margin-left: 150px;
+}
+#arrg{
+  margin-left: -300px;
+}
+hr{
+   width: 50%;
+}
+.form{
+   margin-top: 500px;
+
+   background: rgb(23, 7, 103);
+   height: 691px;
+   width: auto;
+}
+.igg{
+  margin-left: -150px;
+}
+.fromm{
+  margin-left: -120px;
+  margin-top: -500px;
+}
+input{
+  color: #F4F6FC;
+}
+#sent-dis{
+  font-size: 16px;
+}
+.bitt{
+  width: 200px;
+  height: 40px;
+background-color: #FCD980;
+padding: 29px, 56px, 16px, 56px;
+border-radius: 41px;
+margin-top: -51px;
+margin-left: 103px;
+}
+.het{
+  text-decoration: none;
+  color: black;
+font-size: 16px;
+font-weight: 600;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+}
+.ket{
+  text-decoration: none;
+  color: rgb(252, 248, 248);
+font-size: 14px;
+font-weight: 200;
+line-height: 32px;
+letter-spacing: 0em;
+margin-left: -500px;
+}
+.rer{
+  margin-left: -100px;
+}
+.set{
+  overflow-x: hidden;
+}
